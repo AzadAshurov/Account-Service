@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\AccountService\bin\Debug\net6.0\AccountService.exe
+C:\Users\II novbe\Desktop\AccountService\bin\Debug\net6.0\AccountService.deps.json
+C:\Users\II novbe\Desktop\AccountService\bin\Debug\net6.0\AccountService.runtimeconfig.json
+C:\Users\II novbe\Desktop\AccountService\bin\Debug\net6.0\AccountService.dll
+C:\Users\II novbe\Desktop\AccountService\bin\Debug\net6.0\AccountService.pdb
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.dll
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\refint\AccountService.dll
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.pdb
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\AccountService.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\AccountService\obj\Debug\net6.0\ref\AccountService.dll
